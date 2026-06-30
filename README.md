@@ -24,7 +24,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MaximoWilliner&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=maxiwilliner&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/MaximoWilliner?style=for-the-badge&logo=github&logoColor=white&color=8338EC" alt="followers"/>
 &nbsp;
@@ -92,9 +92,9 @@ I'm actively seeking opportunities as a **Data Analyst**, **Data Scientist**, or
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MaximoWilliner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF&bg_color=0D1117&border_radius=10" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maxiwilliner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF&bg_color=0D1117&border_radius=10" alt="GitHub Stats"/>
 &nbsp;
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoWilliner&layout=donut&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10&langs_count=8" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiwilliner&layout=donut&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -102,7 +102,7 @@ I'm actively seeking opportunities as a **Data Analyst**, **Data Scientist**, or
 
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=MaximoWilliner&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8338EC&border_radius=10" alt="GitHub Streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=maxiwilliner&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8338EC&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
@@ -112,7 +112,7 @@ I'm actively seeking opportunities as a **Data Analyst**, **Data Scientist**, or
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaximoWilliner&theme=tokyonight&no-frame=true&column=5&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maxiwilliner&theme=tokyonight&no-frame=true&column=5&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -122,7 +122,7 @@ I'm actively seeking opportunities as a **Data Analyst**, **Data Scientist**, or
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaximoWilliner&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF006E)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxiwilliner&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF006E)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -133,9 +133,9 @@ I'm actively seeking opportunities as a **Data Analyst**, **Data Scientist**, or
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaximoWilliner/MaximoWilliner/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaximoWilliner/MaximoWilliner/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MaximoWilliner/MaximoWilliner/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxiwilliner/maxiwilliner/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxiwilliner/maxiwilliner/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/maxiwilliner/maxiwilliner/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
