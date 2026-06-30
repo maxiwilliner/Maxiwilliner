@@ -2,35 +2,35 @@
 
 <!-- ============================ HERO ============================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8338EC,50:00D9FF,100:FF006E&height=260&section=header&text=Maximo%20Williner&fontSize=78&fontColor=ffffff&fontAlignY=38&desc=Data%20Professional%20%26%20Software%20Engineer&descSize=22&descAlignY=62&animation=fadeIn" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8338EC,50:00D9FF,100:FF006E&amp;height=260&amp;section=header&amp;text=Maximo%20Williner&amp;fontSize=78&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Data%20Professional%20%26%20Software%20Engineer&amp;descSize=22&amp;descAlignY=62&amp;animation=fadeIn" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=ETL+pipelines+%C2%B7+EDA+%C2%B7+predictive+ML;Algorithms+%C2%B7+systems+design+%C2%B7+C%2FC%2B%2B;42+Madrid+%C2%B7+open+to+opportunities;Data+Analyst+%C2%B7+Data+Scientist+%C2%B7+Data+Engineer" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=ETL+pipelines+%C2%B7+EDA+%C2%B7+predictive+ML;Algorithms+%C2%B7+systems+design+%C2%B7+C%2FC%2B%2B;42+Madrid+%C2%B7+open+to+opportunities;Data+Analyst+%C2%B7+Data+Scientist+%C2%B7+Data+Engineer" alt="typing"/>
 </a>
 
 <br/>
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/maxiwilliner" target="_blank">
-    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Portfolio"/>
+    <img src="https://img.shields.io/badge/-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Portfolio"/>
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=maxiwilliner&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=maxiwilliner&amp;label=Profile+Views&amp;color=00D9FF&amp;style=for-the-badge" alt="views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/maxiwilliner?style=for-the-badge&logo=github&logoColor=white&color=8338EC" alt="followers"/>
+<img src="https://img.shields.io/github/followers/maxiwilliner?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=8338EC" alt="followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/42-MADRID-000000?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
+<img src="https://img.shields.io/badge/42-MADRID-000000?style=for-the-badge&amp;logo=42&amp;logoColor=white" alt="42"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF006E?style=for-the-badge&logo=briefcase&logoColor=white" alt="status"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF006E?style=for-the-badge&amp;logo=briefcase&amp;logoColor=white" alt="status"/>
 
 </div>
 
