@@ -44,7 +44,7 @@ My work operates at the intersection of **data systems** and **software engineer
 - **Data:** Design and orchestration of ETL pipelines, in-depth Exploratory Data Analysis (EDA), and development of predictive Machine Learning models that convert raw information into actionable business insights.
 - **Software:** Architecture of robust systems, mastery of algorithms and data structures, and high-performance low-level programming in C/C++.
 
-I'm actively seeking opportunities as a **Data Analyst**, **Data Scientist**, or **Data Engineer**.
+I'm actively seeking opportunities as a **Data Analyst**
 
 ---
 
