@@ -2,7 +2,7 @@
 
 <!-- ============================ HERO ============================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8338EC,50:00D9FF,100:FF006E&amp;height=260&amp;section=header&amp;text=Maximo%20Williner&amp;fontSize=78&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Data%20Professional%20%26%20Software%20Engineer&amp;descSize=22&amp;descAlignY=62&amp;animation=fadeIn" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8338EC,50:00D9FF,100:FF006E&height=260&section=header&text=Maximo%20Williner&fontSize=78&fontColor=ffffff&fontAlignY=38&desc=Data%20Professional%20and%20Software%20Engineer&descSize=22&descAlignY=62&animation=fadeIn" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=ETL+pipelines+%C2%B7+EDA+%C2%B7+predictive+ML;Algorithms+%C2%B7+systems+design+%C2%B7+C%2FC%2B%2B;42+Madrid+%C2%B7+open+to+opportunities;Data+Analyst+%C2%B7+Data+Scientist+%C2%B7+Data+Engineer" alt="typing"/>
