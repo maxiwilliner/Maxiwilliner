@@ -89,14 +89,6 @@ I'm actively seeking opportunities as a **Data Analyst**
 
 ## 📊 Performance Metrics Panel
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maxiwilliner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF&bg_color=0D1117&border_radius=10" alt="GitHub Stats"/>
-&nbsp;
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiwilliner&layout=donut&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10&langs_count=8" alt="Top Languages"/>
-
-</div>
-
 <br/>
 
 <div align="center">
