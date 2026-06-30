@@ -108,16 +108,6 @@ I'm actively seeking opportunities as a **Data Analyst**, **Data Scientist**, or
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=maxiwilliner&theme=tokyonight&no-frame=true&column=5&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
