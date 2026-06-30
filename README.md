@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/MaximoWilliner" target="_blank">
+  <a href="https://github.com/maxiwilliner" target="_blank">
     <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Portfolio"/>
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
