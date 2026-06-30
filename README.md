@@ -6,7 +6,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src=""  />
+  <img data-importer="image" height="200" src="image.jpg"  />
 </div>
 
 ###
@@ -36,43 +36,13 @@
 
 ###
 
-## 🛠️ Tech Stack
-
-**Data & Machine Learning**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-**Core Engineering & Infrastructure**
-<br>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Data/ML Project Name](link)** | Brief description of what you analyzed or predicted, and the business impact or key finding. | `Python`, `Scikit-Learn` |
-| **[ETL/SQL Project Name](link)** | Brief description of the data pipeline, data cleaning process, or database architecture. | `PostgreSQL`, `Pandas` |
-| **[42 Project: e.g., Minishell](link)** | Custom bash shell written from scratch. Focuses on process creation, memory management, and parsing. | `C`, `Linux`, `Unix` |
-
----
-
 ## 👨‍💻 About Me
 
 Building scalable data pipelines and robust infrastructure. Currently mastering low-level programming (C/C++) and system architecture at **42 Madrid**, combining rigorous software engineering principles with end-to-end data solutions (Python, SQL).
 
 ###
+
+## 🛠️ Tech Stack
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -108,7 +78,19 @@ Building scalable data pipelines and robust infrastructure. Currently mastering 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
-###
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Data/ML Project Name](link)** | Brief description of what you analyzed or predicted, and the business impact or key finding. | `Python`, `Scikit-Learn` |
+| **[ETL/SQL Project Name](link)** | Brief description of the data pipeline, data cleaning process, or database architecture. | `PostgreSQL`, `Pandas` |
+| **[42 Project: e.g., Minishell](link)** | Custom bash shell written from scratch. Focuses on process creation, memory management, and parsing. | `C`, `Linux`, `Unix` |
+
+---
+
 
 ## 🎓 Education & Methodology
 
