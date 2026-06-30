@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8338EC,50:00D9FF,100:FF006E&height=260&section=header&text=Maximo%20Williner&fontSize=78&fontColor=ffffff&fontAlignY=38&desc=Data%20Professional%20and%20Software%20Engineer&descSize=22&descAlignY=62&animation=fadeIn" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=ETL+pipelines+%C2%B7+EDA+%C2%B7+predictive+ML;Algorithms+%C2%B7+systems+design+%C2%B7+C%2FC%2B%2B;42+Madrid+%C2%B7+open+to+opportunities;Data+Analyst+%C2%B7" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=ETL+pipelines+%C2%B7+EDA+%C2%B7+predictive+ML;Algorithms+%C2%B7+systems+design+%C2%B7+C%2FC%2B%2B;42+Madrid+%C2%B7+open+to+opportunities" alt="typing"/>
 </a>
 
 <br/>
