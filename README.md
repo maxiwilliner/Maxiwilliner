@@ -12,16 +12,15 @@
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/maxiwilliner" target="_blank">
-    <img src="https://img.shields.io/badge/-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Portfolio"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub Portfolio"/>
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
 </p>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=maxiwilliner&amp;label=Profile+Views&amp;color=00D9FF&amp;style=for-the-badge" alt="views"/>
