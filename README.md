@@ -26,7 +26,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=maxiwilliner&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/MaximoWilliner?style=for-the-badge&logo=github&logoColor=white&color=8338EC" alt="followers"/>
+<img src="https://img.shields.io/github/followers/maxiwilliner?style=for-the-badge&logo=github&logoColor=white&color=8338EC" alt="followers"/>
 &nbsp;
 <img src="https://img.shields.io/badge/42-MADRID-000000?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
 &nbsp;
