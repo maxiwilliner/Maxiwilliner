@@ -1,8 +1,14 @@
 <div align="center">
 
-# Maximo Williner
+<!-- ============================ HERO ============================ -->
 
-### Data Professional & Software Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8338EC,50:00D9FF,100:FF006E&height=260&section=header&text=Maximo%20Williner&fontSize=78&fontColor=ffffff&fontAlignY=38&desc=Data%20Professional%20%26%20Software%20Engineer&descSize=22&descAlignY=62&animation=fadeIn" alt="header"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=ETL+pipelines+%C2%B7+EDA+%C2%B7+predictive+ML;Algorithms+%C2%B7+systems+design+%C2%B7+C%2FC%2B%2B;42+Madrid+%C2%B7+open+to+opportunities;Data+Analyst+%C2%B7+Data+Scientist+%C2%B7+Data+Engineer" alt="typing"/>
+</a>
+
+<br/>
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
@@ -16,20 +22,30 @@
   </a>
 </p>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MaximoWilliner&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/MaximoWilliner?style=for-the-badge&logo=github&logoColor=white&color=8338EC" alt="followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/42-MADRID-000000?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF006E?style=for-the-badge&logo=briefcase&logoColor=white" alt="status"/>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Data Professional & Software Engineer** currently studying at **42 Madrid**, where I tackle rigorous, peer-to-peer projects that push my technical boundaries.
+I'm a **Data Professional & Software Engineer** currently studying at **42 Madrid**, a peer-to-peer, project-based institution recognized for its technical rigor.
 
-My work lives at the intersection of **data systems** and **software engineering**:
+My work operates at the intersection of **data systems** and **software engineering**:
 
-- **Data:** I design ETL pipelines, perform deep Exploratory Data Analysis (EDA), and build predictive Machine Learning models that transform raw information into actionable business insights.
-- **Software:** I architect robust systems, master algorithms, and write high-performance low-level code in C/C++.
+- **Data:** Design and orchestration of ETL pipelines, in-depth Exploratory Data Analysis (EDA), and development of predictive Machine Learning models that convert raw information into actionable business insights.
+- **Software:** Architecture of robust systems, mastery of algorithms and data structures, and high-performance low-level programming in C/C++.
 
-I'm currently seeking opportunities as a **Data Analyst**, **Data Scientist**, or **Data Engineer**.
+I'm actively seeking opportunities as a **Data Analyst**, **Data Scientist**, or **Data Engineer**.
 
 ---
 
@@ -67,24 +83,60 @@ I'm currently seeking opportunities as a **Data Analyst**, **Data Scientist**, o
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MaximoWilliner&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=6" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MaximoWilliner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF&bg_color=0D1117&border_radius=10" alt="GitHub Stats"/>
 &nbsp;
-<img width="48%" src="https://streak-stats.demolab.com?user=MaximoWilliner&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&border_radius=6" alt="GitHub Streak"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoWilliner&layout=donut&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=10&langs_count=8" alt="Top Languages"/>
 
 </div>
-
----
 
 <br/>
 
 <div align="center">
 
+<img width="80%" src="https://streak-stats.demolab.com?user=MaximoWilliner&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8338EC&border_radius=10" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaximoWilliner&theme=tokyonight&no-frame=true&column=5&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaximoWilliner&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF006E)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaximoWilliner/MaximoWilliner/output/github-contribution-grid-pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaximoWilliner/MaximoWilliner/output/github-contribution-grid-pacman.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MaximoWilliner/MaximoWilliner/output/github-contribution-grid-pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaximoWilliner/MaximoWilliner/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaximoWilliner/MaximoWilliner/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MaximoWilliner/MaximoWilliner/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
-<br/>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8338EC,50:00D9FF,100:FF006E&height=180&section=footer&text=Open%20to%20Data%20opportunities&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="footer"/>
+
+<sub>Data Analyst · Data Scientist · Data Engineer</sub>
+
+</div>
