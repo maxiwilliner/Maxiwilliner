@@ -1,116 +1,90 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="image.jpg"  />
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=0&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
-</div>
-
-###
+<div align="center">
 
 # Maximo Williner
-**Data Professional & Software Engineer | 42 Madrid**
 
-<div align="left">
-  <a href="[TU_LINKEDIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+### Data Professional & Software Engineer
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[TU_PORTFOLIO]">
-    <img src="https://img.shields.io/badge/Portfolio-171515?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  <a href="https://github.com/MaximoWilliner" target="_blank">
+    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Portfolio"/>
   </a>
-  <a href="mailto:[TU_EMAIL]">
-    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+</p>
+
 </div>
 
-###
+---
 
 ## 👨‍💻 About Me
 
-Building scalable data pipelines and robust infrastructure. Currently mastering low-level programming (C/C++) and system architecture at **42 Madrid**, combining rigorous software engineering principles with end-to-end data solutions (Python, SQL).
+I'm a **Data Professional & Software Engineer** currently studying at **42 Madrid**, where I tackle rigorous, peer-to-peer projects that push my technical boundaries.
 
-###
+My work lives at the intersection of **data systems** and **software engineering**:
 
-## 🛠️ Tech Stack
+- **Data:** I design ETL pipelines, perform deep Exploratory Data Analysis (EDA), and build predictive Machine Learning models that transform raw information into actionable business insights.
+- **Software:** I architect robust systems, master algorithms, and write high-performance low-level code in C/C++.
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-</div>
-
+I'm currently seeking opportunities as a **Data Analyst**, **Data Scientist**, or **Data Engineer**.
 
 ---
 
-## 🚀 Featured Projects
+## 🗺️ Skill Architecture Map
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Data/ML Project Name](link)** | Brief description of what you analyzed or predicted, and the business impact or key finding. | `Python`, `Scikit-Learn` |
-| **[ETL/SQL Project Name](link)** | Brief description of the data pipeline, data cleaning process, or database architecture. | `PostgreSQL`, `Pandas` |
-| **[42 Project: e.g., Minishell](link)** | Custom bash shell written from scratch. Focuses on process creation, memory management, and parsing. | `C`, `Linux`, `Unix` |
+<div align="center">
+
+### DATA & ANALYTICS STACK
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### CORE ENGINEERING & INFRA STACK
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+</div>
 
 ---
 
+## 📊 Performance Metrics Panel
 
-## 🎓 Education & Methodology
+<div align="center">
 
-**42 Madrid** | *Software Engineering Core*
-- Intensive, peer-to-peer coding environment with no teachers or traditional classes.
-- Project-based curriculum focused on low-level programming (C/C++), algorithms, and system architecture.
-- Built for autonomy, strict code reviews, and overcoming complex technical blockers.
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MaximoWilliner&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=6" alt="GitHub Stats"/>
+&nbsp;
+<img width="48%" src="https://streak-stats.demolab.com?user=MaximoWilliner&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&border_radius=6" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+<br/>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=0A66C2" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO]&theme=transparent&hide_border=true&title_color=00599C&icon_color=0A66C2" alt="GitHub Streak" height="150"/>
-</div>
+<div align="center">
 
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxiwilliner/maxiwilliner/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxiwilliner/maxiwilliner/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maxiwilliner/maxiwilliner/pacman-output/galaga-contribution-graph.svg?game=galaga">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaximoWilliner/MaximoWilliner/output/github-contribution-grid-pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaximoWilliner/MaximoWilliner/output/github-contribution-grid-pacman.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MaximoWilliner/MaximoWilliner/output/github-contribution-grid-pacman.svg">
 </picture>
 
-###
+</div>
+
+<br/>
